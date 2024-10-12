@@ -1,2 +1,1 @@
-# scrollList-React-window
-This repo include a scrollable list using react-window. 
+#React scroll list with react window plugin
