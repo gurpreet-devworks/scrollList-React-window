@@ -12,6 +12,12 @@ dist
 dist-ssr
 *.local
 
+# Ignore macOS system files
+.DS_Store
+
+# Ignore package lock file
+package-lock.json
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
